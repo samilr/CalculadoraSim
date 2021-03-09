@@ -1,0 +1,10 @@
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe.config
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.exe
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\bin\Debug\CalculadoraSimple.pdb
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csprojAssemblyReference.cache
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.Properties.Resources.resources
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.GenerateResource.cache
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.csproj.CoreCompileInputs.cache
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.exe
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.pdb
+C:\Users\Samil Gonzalez\source\repos\CalculadoraSimple\CalculadoraSimple\obj\Debug\CalculadoraSimple.CalculadoraInterfaz.resources
